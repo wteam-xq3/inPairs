@@ -1,3 +1,3 @@
 
-# 胡思乱想产物： 成算成对(inPairs)
-# 文字描述 ：请看 PlanningText.md
+# 小小游戏idea： 成算成对(inPairs)
+### 具体描述请看 PlanningText.md

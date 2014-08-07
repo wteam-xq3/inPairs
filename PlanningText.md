@@ -2,7 +2,7 @@
 
 ## 成双成对：（游戏）  In pairs
 #### 使用如下背景格：
-![Image of inPairs](http://postimg.org/image/qs0d02lmt/)
+![Image of inPairs](http://e.hiphotos.bdimg.com/wisegame/pic/item/3043fbf2b21193135ca2de8666380cd791238d27.jpg)
 
 
 #### 游戏规则： 
